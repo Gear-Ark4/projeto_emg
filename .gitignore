@@ -1,0 +1,15 @@
+# Ambientes Virtuais
+venv/
+emg/
+.env
+
+# Dados Pesados (NinaPro)
+Data/
+data/
+*.mat
+*.zip
+
+# Arquivos do Sistema e VS Code
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
